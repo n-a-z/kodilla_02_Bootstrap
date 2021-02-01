@@ -8,7 +8,8 @@
 
 .carousel-item img {
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .carousel-caption {
@@ -24,7 +25,8 @@
 .card img {
   width: 100%;
   height: 300px;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .contact {
@@ -34,5 +36,4 @@
 footer {
   background: #D0DBE1;
 }
-
 /*# sourceMappingURL=style.css.map */
